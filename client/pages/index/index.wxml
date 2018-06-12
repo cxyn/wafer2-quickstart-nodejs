@@ -29,8 +29,7 @@
         </view>
     </view>
 
-
-    <!-- 上传图片测试 -->
+    
     <view class="uploader">
         <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
             <text>快速增加 CGI</text>
